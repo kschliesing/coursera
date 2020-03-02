@@ -1,0 +1,33 @@
+#header-nav {
+	background-color: #5792CB;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+  color: black
+}
+
+#nav-list{
+	background-color: #A6CBEF;
+}
+
+#nav-list {
+  margin-top: 10px;
+  /*background-color: #7DB5ED;*/
+}
+#nav-list a {
+  text-align: center;
+}
+
+#main-content {
+	background-color: #6FE7EF;
+}
